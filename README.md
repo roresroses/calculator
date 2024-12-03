@@ -9,3 +9,7 @@ roresroses - 28/11/2024
 3. Build the project : `cmake ..`
 4. Generate the executable : `make`
 5. Run the executable : `./roresroses-calculator`
+
+## Limitations
+
+Can only input integers (no floats, doubles, etc.)

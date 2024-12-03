@@ -22,6 +22,5 @@ double Calculator::getItsResult() {
 }
 
 void Calculator::calculate(std::string expression) {
-
-
+    
 }
